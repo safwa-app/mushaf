@@ -7,7 +7,7 @@
     {"code": "QLNH", "images": "qalun", "version": 1, "notes": 0, "name": "حفص وبالهامش قالون", "hamishOf": "رواية قالون", "matn": "حفص", "qiraat": ["KOLN"], "auto": null},
     {"code": "KTRH", "images": "kathir", "version": 1, "notes": 0, "name": "حفص وبالهامش ابن كثير", "hamishOf": "قراءة ابن كثير", "matn": "حفص", "qiraat": ["IBKT"], "auto": null},
     {"code": "WRZQ", "images": "azraq", "version": 1, "notes": 0, "name": "حفص وبالهامش ورش", "hamishOf": "رواية ورش", "matn": "حفص", "qiraat": ["WRSH"], "auto": null},
-    {"code": "AMRH", "images": "abuamr", "version": 1, "notes": 0, "name": "حفص وبالهامش أبو عمرو", "hamishOf": "قراءة أبي عمرو", "matn": "حفص", "qiraat": ["ABAM"], "auto": null},
+    {"code": "AMRH", "images": "abuamr", "version": 2, "notes": 0, "name": "حفص وبالهامش أبو عمرو", "hamishOf": "قراءة أبي عمرو", "matn": "حفص", "qiraat": ["ABAM"], "auto": null},
     {"code": "HMZH", "images": "hamza", "version": 4, "notes": 0, "name": "قراءة حمزة", "label": "مصحف قراءة حمزة", "hamishOf": "خلّاد ووقف حمزة", "matn": "رواية خلف عن حمزة", "qiraat": ["HMZA"], "auto": "alone"},
     {"code": "KSAH", "images": "kisai", "version": 2, "notes": 0, "name": "أبو الحارث وبالهامش الدوري", "hamishOf": "الدوري عن الكسائي", "matn": "رواية أبي الحارث عن الكسائي", "qiraat": ["KSAI"], "auto": "alone"},
     {"code": "JFRH", "images": "jafar", "version": 1, "notes": 0, "name": "حفص وبالهامش أبو جعفر", "hamishOf": "قراءة أبي جعفر", "matn": "حفص", "qiraat": ["ABJF"], "auto": "yes"}
