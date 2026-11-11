@@ -11,6 +11,7 @@
     {"code": "HMZH", "images": "hamza", "version": 4, "notes": 0, "name": "قراءة حمزة", "label": "مصحف قراءة حمزة", "hamishOf": "خلّاد ووقف حمزة", "matn": "رواية خلف عن حمزة", "qiraat": ["HMZA"], "auto": "alone"},
     {"code": "KSAH", "images": "kisai", "version": 2, "notes": 0, "name": "أبو الحارث وبالهامش الدوري", "hamishOf": "الدوري عن الكسائي", "matn": "رواية أبي الحارث عن الكسائي", "qiraat": ["KSAI"], "auto": "alone"},
     {"code": "JFRH", "images": "jafar", "version": 1, "notes": 0, "name": "حفص وبالهامش أبو جعفر", "hamishOf": "قراءة أبي جعفر", "matn": "حفص", "qiraat": ["ABJF"], "auto": "yes"},
-    {"code": "YQBH", "images": "yaqub", "version": 1, "notes": 0, "name": "حفص وبالهامش يعقوب", "hamishOf": "قراءة يعقوب", "matn": "حفص", "qiraat": ["YAQB"], "auto": "yes"}
+    {"code": "YQBH", "images": "yaqub", "version": 1, "notes": 0, "name": "حفص وبالهامش يعقوب", "hamishOf": "قراءة يعقوب", "matn": "حفص", "qiraat": ["YAQB"], "auto": "yes"},
+    {"code": "KHLH", "images": "khalaf", "version": 1, "notes": 0, "name": "حفص وبالهامش خلف العاشر", "hamishOf": "قراءة خلف العاشر", "matn": "حفص", "qiraat": ["KHLF"], "auto": "yes"}
   ]
 }
