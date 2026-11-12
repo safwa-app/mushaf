@@ -13,7 +13,7 @@
     {"code": "JFRH", "images": "jafar", "version": 1, "notes": 0, "name": "حفص وبالهامش أبو جعفر", "label": "مصحف قراءة أبي جعفر", "hamishOf": "قراءة أبي جعفر", "matn": "حفص", "qiraat": ["ABJF"], "auto": "yes"},
     {"code": "YQBH", "images": "yaqub", "version": 1, "notes": 0, "name": "حفص وبالهامش يعقوب", "label": "مصحف قراءة يعقوب", "hamishOf": "قراءة يعقوب", "matn": "حفص", "qiraat": ["YAQB"], "auto": "yes"},
     {"code": "KHLH", "images": "khalaf", "version": 1, "notes": 0, "name": "حفص وبالهامش خلف العاشر", "label": "مصحف قراءة خلف العاشر", "hamishOf": "قراءة خلف العاشر", "matn": "حفص", "qiraat": ["KHLF"], "auto": "yes"},
-    {"code": "KUFH", "images": "kufi", "version": 5, "notes": 3, "name": "حمزة وبالهامش الكوفيين", "label": "مصحف الكوفيين الجامع (تجريبي)", "hamishOf": "الكوفيين", "matn": "رواية خلف عن حمزة", "qiraat": [], "auto": null}
+    {"code": "KUFH", "images": "kufi", "version": 6, "notes": 4, "name": "حمزة وبالهامش الكوفيين", "label": "مصحف الكوفيين الجامع (تجريبي)", "hamishOf": "الكوفيين", "matn": "رواية خلف عن حمزة", "qiraat": [], "auto": null}
   ]
 }
 
