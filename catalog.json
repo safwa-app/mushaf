@@ -7,13 +7,13 @@
     {"code": "KTRH", "images": "kathir", "version": 1, "notes": 0, "name": "حفص وبالهامش ابن كثير", "label": "مصحف قراءة ابن كثير", "hamishOf": "قراءة ابن كثير", "matn": "حفص", "qiraat": ["IBKT"], "auto": null},
     {"code": "AMRH", "images": "abuamr", "version": 2, "notes": 0, "name": "حفص وبالهامش أبو عمرو", "label": "مصحف قراءة أبي عمرو", "hamishOf": "قراءة أبي عمرو", "matn": "حفص", "qiraat": ["ABAM"], "auto": null},
     {"code": "AMIR", "images": "amir", "version": 2, "notes": 0, "name": "حفص وبالهامش ابن عامر", "label": "مصحف قراءة ابن عامر", "hamishOf": "قراءة ابن عامر", "matn": "حفص", "qiraat": ["IBAM"], "auto": "yes"},
-    {"code": "ASMH", "images": "asim", "version": 1, "notes": 0, "name": "حفص وبالهامش شعبة", "label": "مصحف قراءة عاصم", "hamishOf": "رواية شعبة", "matn": "حفص", "qiraat": ["ASIM"], "auto": "yes"},
+    {"code": "ASMH", "images": "asim", "version": 1, "notes": 1, "name": "حفص وبالهامش شعبة", "label": "مصحف قراءة عاصم", "hamishOf": "رواية شعبة", "matn": "حفص", "qiraat": ["ASIM"], "auto": "yes"},
     {"code": "HMZH", "images": "hamza", "version": 4, "notes": 0, "name": "قراءة حمزة", "label": "مصحف قراءة حمزة", "hamishOf": "خلّاد ووقف حمزة", "matn": "رواية خلف عن حمزة", "qiraat": ["HMZA"], "auto": "alone"},
     {"code": "KSAH", "images": "kisai", "version": 2, "notes": 0, "name": "أبو الحارث وبالهامش الدوري", "label": "مصحف قراءة الكسائي", "hamishOf": "الدوري عن الكسائي", "matn": "رواية أبي الحارث عن الكسائي", "qiraat": ["KSAI"], "auto": "alone"},
     {"code": "JFRH", "images": "jafar", "version": 1, "notes": 0, "name": "حفص وبالهامش أبو جعفر", "label": "مصحف قراءة أبي جعفر", "hamishOf": "قراءة أبي جعفر", "matn": "حفص", "qiraat": ["ABJF"], "auto": "yes"},
     {"code": "YQBH", "images": "yaqub", "version": 1, "notes": 0, "name": "حفص وبالهامش يعقوب", "label": "مصحف قراءة يعقوب", "hamishOf": "قراءة يعقوب", "matn": "حفص", "qiraat": ["YAQB"], "auto": "yes"},
-    {"code": "KHLH", "images": "khalaf", "version": 1, "notes": 0, "name": "حفص وبالهامش خلف العاشر", "label": "مصحف قراءة خلف العاشر", "hamishOf": "قراءة خلف العاشر", "matn": "حفص", "qiraat": ["KHLF"], "auto": "yes"},
-    {"code": "KUFH", "images": "kufi", "version": 8, "notes": 6, "name": "حمزة وبالهامش الكوفيين", "label": "مصحف الكوفيين الجامع (تجريبي)", "hamishOf": "الكوفيين", "matn": "رواية خلف عن حمزة", "qiraat": [], "auto": null}
+    {"code": "KHLH", "images": "khalaf", "version": 1, "notes": 1, "name": "حفص وبالهامش خلف العاشر", "label": "مصحف قراءة خلف العاشر", "hamishOf": "قراءة خلف العاشر", "matn": "حفص", "qiraat": ["KHLF"], "auto": "yes"},
+    {"code": "KUFH", "images": "kufi", "version": 9, "notes": 7, "name": "حمزة وبالهامش الكوفيين", "label": "مصحف الكوفيين الجامع (تجريبي)", "hamishOf": "الكوفيين", "matn": "رواية خلف عن حمزة", "qiraat": [], "auto": null}
   ]
 }
 
